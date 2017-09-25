@@ -1,0 +1,26 @@
+{
+  "name": "metalsmith-bitly",
+  "version": "1.0.0",
+  "description": "A metalsmith plugin for bitly links",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiwcx/metalsmith-bitly.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "bitly"
+  ],
+  "author": "I. Welch Canavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiwcx/metalsmith-bitly/issues"
+  },
+  "homepage": "https://github.com/xiwcx/metalsmith-bitly#readme",
+  "dependencies": {
+    "bitlyapi": "^1.0.9"
+  }
+}
