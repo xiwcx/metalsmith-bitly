@@ -15,7 +15,7 @@
     "bitly"
   ],
   "author": "I. Welch Canavan",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/xiwcx/metalsmith-bitly/issues"
   },
